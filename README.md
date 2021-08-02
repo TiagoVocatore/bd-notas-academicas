@@ -4,13 +4,15 @@ Olá pessoal! Nesse repositório, trago o meu primeiro projeto feito em PHP.  É
 
 ### instruções de acesso
 
-![img](http://localhost/exercicios_bd/imagens/atencao.png)
+![image](https://user-images.githubusercontent.com/70287899/127799344-59c246bc-65c6-41de-9501-962b83f9c08d.png)
 
-![img](http://localhost/exercicios_bd/imagens/importar_bd1.png)
 
-![img](http://localhost/exercicios_bd/imagens/importar_bd2.png)
+![image](https://user-images.githubusercontent.com/70287899/127799353-b9bd27c9-3d59-409a-875a-3b0107bfd3a5.png)
 
-![img](http://localhost/exercicios_bd/imagens/importar_bd3.png)
+![image](https://user-images.githubusercontent.com/70287899/127799367-5867b81a-fa2d-4b44-9c98-2b78d4c34ada.png)
+
+![image](https://user-images.githubusercontent.com/70287899/127799380-2781ed8f-1f39-4917-aeac-a26466be085f.png)
+
 
 
 
