@@ -1,0 +1,80 @@
+body{
+	
+	background-image : url("../imagens/snow.jpg");
+	background-attachment: fixed;  
+}
+
+#body_login {
+	background-image : url("../imagens/bg_cidade.png");
+	background-attachment: fixed;  
+}
+
+
+nav {
+	background-color: rgb(201, 76, 76);
+}
+nav a {
+    color: white;
+}
+
+a:hover {
+	 color: white;
+}
+
+#instrucoes img {
+	width:500px;
+	margin-top:2px;
+}
+
+#input_nome {
+	width:245px;
+}
+
+#input_file {
+	margin-left:52px;
+width:200px;
+}
+
+.input_inicio  {
+	width:100px;
+	text-align:center;
+}
+
+
+.input_cadastro {
+	width:260px;
+}
+
+.input_editar {
+	width:100px;
+}
+
+#img_aluno {
+	width:100px;
+}
+
+.input_exercicios {
+	width:100px;
+	text-align:Center;
+}
+
+.input_brasileiro {
+	width:140px;
+	text-align:Center;
+}
+
+#div_login {
+	background-color:#F0F8FF;
+	text-align:center;
+	font-size:25px;
+	color:	#00BFFF;
+}
+
+#div_login a {
+	 text-decoration:none; 
+	 color:	#00BFFF;
+}
+
+#div_login a:hover {
+	color:	#00BFFF;
+}
